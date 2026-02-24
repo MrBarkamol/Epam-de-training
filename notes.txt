@@ -1,1 +1,4 @@
-This is my updated log
+Welcome to my EPAM training notes
+Completed the SSH setup today
+Now I edited to pull by Terminal
+OK?
