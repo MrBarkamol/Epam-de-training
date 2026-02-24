@@ -1,0 +1,2 @@
+Welcome to my EPAM training notes
+Completed the SSH setup today
